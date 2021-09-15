@@ -1,2 +1,2 @@
-# logica-1
-Exercícios de logica 1
+# logica-2
+Exercícios de logica 2
